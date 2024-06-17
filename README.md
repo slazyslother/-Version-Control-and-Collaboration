@@ -2,7 +2,7 @@
 
 This project involves setting up a repository on GitHub and practicing essential version control techniques such as branching, merging, and resolving conflicts. Additionally, it focuses on collaboration with a team to implement a feature using pull requests and code reviews. The goal is to foster effective teamwork, ensure high-quality code, and develop robust version control practices suitable for a corporate environment.
 
-<br/
+<br/>
 
 # Features
 
@@ -16,7 +16,8 @@ This project involves setting up a repository on GitHub and practicing essential
 - __Continuous Integration__: Integrate CI tools like GitHub Actions to automate testing and deployment.
 - __Documentation__: Maintain project documentation in the repository, including a detailed README, CONTRIBUTING guidelines, and a changelog.
 
-<br/
+<br/>
+
 
 ## Utility Functions
 
@@ -27,7 +28,7 @@ This project involves setting up a repository on GitHub and practicing essential
 - __Issue Tracking__: Functions to create, update, and close issues.
 - __Continuous Integration__: Functions to set up and manage CI pipelines.
 
-<br/
+<br/>
 
 ## Implementation
 
@@ -39,7 +40,8 @@ This project involves setting up a repository on GitHub and practicing essential
 - __Issue Tracking__: Utilize GitHub Issues to track bugs, enhancements, and tasks. Create a template for reporting issues and a process for triaging and prioritizing them.
 - __Continuous Integration__: Set up a CI pipeline using GitHub Actions to automate testing and deployment. Configure the pipeline to run tests on every pull request and deploy code to a staging environment on merge.
 
-<br/
+<br/>
+
 
 ## Testing
 
@@ -48,7 +50,8 @@ This project involves setting up a repository on GitHub and practicing essential
 - __Code Reviews__: Conduct mock code reviews to practice providing and receiving feedback.
 - __CI/CD Pipeline__: Test the CI/CD pipeline to ensure that automated tests run correctly and that deployments are successful.
 
-<br/
+<br/>
+
 
 ## Example Scenarios
 
@@ -60,7 +63,8 @@ This project involves setting up a repository on GitHub and practicing essential
 - __Issue Tracking__: Create and manage issues to track bugs, feature requests, and tasks. Use issue labels and milestones to organize and prioritize work.
 - __CI/CD Pipeline__: Set up a CI/CD pipeline using GitHub Actions to automate testing and deployment. Ensure that the pipeline runs tests on every pull request and deploys code to a staging environment on merge.
 
-<br/
+<br/>
+
 
 ## Support
 
